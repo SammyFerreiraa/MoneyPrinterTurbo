@@ -1,0 +1,798 @@
+{
+  "app/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/asgi.py": {
+    "mi": 57.85834138179485,
+    "rank": "A"
+  },
+  "app/router.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/services/elevenlabs_music.py": {
+    "mi": 38.66640757002021,
+    "rank": "A"
+  },
+  "app/services/video_project.py": {
+    "mi": 2.075816394418193,
+    "rank": "C"
+  },
+  "app/services/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/services/material_cache.py": {
+    "mi": 35.34152343492944,
+    "rank": "A"
+  },
+  "app/services/material_upload.py": {
+    "mi": 47.04004248820527,
+    "rank": "A"
+  },
+  "app/services/cache_manager.py": {
+    "mi": 52.155124292607674,
+    "rank": "A"
+  },
+  "app/services/subtitle.py": {
+    "mi": 28.809025136662626,
+    "rank": "A"
+  },
+  "app/services/volcengine_seedance.py": {
+    "mi": 32.96244106099341,
+    "rank": "A"
+  },
+  "app/services/loomloom.py": {
+    "mi": 1.6818416581761786,
+    "rank": "C"
+  },
+  "app/services/upload_post.py": {
+    "mi": 34.306813179016494,
+    "rank": "A"
+  },
+  "app/services/task.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app/services/sonilo.py": {
+    "mi": 32.4046257900961,
+    "rank": "A"
+  },
+  "app/services/ofox.py": {
+    "mi": 37.079539988464866,
+    "rank": "A"
+  },
+  "app/services/llm.py": {
+    "mi": 14.217422167871069,
+    "rank": "B"
+  },
+  "app/services/voice.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app/services/twelvelabs.py": {
+    "mi": 66.88965626760701,
+    "rank": "A"
+  },
+  "app/services/version_checker.py": {
+    "mi": 57.63562503153997,
+    "rank": "A"
+  },
+  "app/services/bgm.py": {
+    "mi": 47.26096748033345,
+    "rank": "A"
+  },
+  "app/services/task_artifacts.py": {
+    "mi": 73.3967147908584,
+    "rank": "A"
+  },
+  "app/services/material.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "app/services/metaso_minimax.py": {
+    "mi": 32.858384959063876,
+    "rank": "A"
+  },
+  "app/services/video.py": {
+    "mi": 6.129759800420593,
+    "rank": "C"
+  },
+  "app/services/webui_task.py": {
+    "mi": 69.35610936393473,
+    "rank": "A"
+  },
+  "app/services/state.py": {
+    "mi": 53.04511730104581,
+    "rank": "A"
+  },
+  "app/services/muapi.py": {
+    "mi": 27.4072279791697,
+    "rank": "A"
+  },
+  "app/services/utils/video_effects.py": {
+    "mi": 63.13107827111419,
+    "rank": "A"
+  },
+  "app/models/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/models/exception.py": {
+    "mi": 83.47294209229945,
+    "rank": "A"
+  },
+  "app/models/schema.py": {
+    "mi": 52.98198590280382,
+    "rank": "A"
+  },
+  "app/models/llm_provider.py": {
+    "mi": 44.339571692154855,
+    "rank": "A"
+  },
+  "app/models/const.py": {
+    "mi": 90.42209691086595,
+    "rank": "A"
+  },
+  "app/config/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/config/config.py": {
+    "mi": 38.841282811902076,
+    "rank": "A"
+  },
+  "app/utils/file_security.py": {
+    "mi": 84.52379954454479,
+    "rank": "A"
+  },
+  "app/utils/utils.py": {
+    "mi": 40.545292544584406,
+    "rank": "A"
+  },
+  "app/utils/subtitle_writer.py": {
+    "mi": 85.79547083963749,
+    "rank": "A"
+  },
+  "app/utils/logging_utils.py": {
+    "mi": 74.43538155759101,
+    "rank": "A"
+  },
+  "app/controllers/ping.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/controllers/base.py": {
+    "mi": 73.45176285039487,
+    "rank": "A"
+  },
+  "app/controllers/v1/llm.py": {
+    "mi": 69.19074665243252,
+    "rank": "A"
+  },
+  "app/controllers/v1/base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/controllers/v1/video.py": {
+    "mi": 35.15353621959199,
+    "rank": "A"
+  },
+  "app/controllers/manager/redis_manager.py": {
+    "mi": 65.59689052971216,
+    "rank": "A"
+  },
+  "app/controllers/manager/memory_manager.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "app/controllers/manager/base_manager.py": {
+    "mi": 62.956008404250674,
+    "rank": "A"
+  },
+  "test/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_main.py": {
+    "mi": 96.69088276320345,
+    "rank": "A"
+  },
+  "test/services/test_metaso_minimax.py": {
+    "mi": 26.690273426381765,
+    "rank": "A"
+  },
+  "test/services/test_state_wrongtype.py": {
+    "mi": 50.3298876985071,
+    "rank": "A"
+  },
+  "test/services/test_video_effects.py": {
+    "mi": 49.234518829484614,
+    "rank": "A"
+  },
+  "test/services/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_twelvelabs_client_lifecycle.py": {
+    "mi": 55.66426993784512,
+    "rank": "A"
+  },
+  "test/services/test_cli_stage_files.py": {
+    "mi": 63.69150300280243,
+    "rank": "A"
+  },
+  "test/services/test_webui_bgm.py": {
+    "mi": 28.60695641035697,
+    "rank": "A"
+  },
+  "test/services/test_azure_locale_escaping.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_webui_metaso_minimax.py": {
+    "mi": 39.10265781452721,
+    "rank": "A"
+  },
+  "test/services/test_muapi.py": {
+    "mi": 23.384652311139632,
+    "rank": "A"
+  },
+  "test/services/test_combine_clip_isolation.py": {
+    "mi": 56.81629137077854,
+    "rank": "A"
+  },
+  "test/services/test_script_patch_concurrency.py": {
+    "mi": 64.19780138932711,
+    "rank": "A"
+  },
+  "test/services/test_webui_grouped_select.py": {
+    "mi": 43.252220243244004,
+    "rank": "A"
+  },
+  "test/services/test_api_authentication.py": {
+    "mi": 59.46888863692462,
+    "rank": "A"
+  },
+  "test/services/test_fish_audio.py": {
+    "mi": 44.24959869188524,
+    "rank": "A"
+  },
+  "test/services/test_webui_task_history.py": {
+    "mi": 43.475564296213506,
+    "rank": "A"
+  },
+  "test/services/test_material_upload.py": {
+    "mi": 51.87704404201168,
+    "rank": "A"
+  },
+  "test/services/test_controller_video.py": {
+    "mi": 26.007258813887393,
+    "rank": "A"
+  },
+  "test/services/test_upload_redirect_handle_native.py": {
+    "mi": 53.37142540194576,
+    "rank": "A"
+  },
+  "test/services/test_utils_ffmpeg_check.py": {
+    "mi": 69.69218128929296,
+    "rank": "A"
+  },
+  "test/services/test_paid_video_provider_redirects.py": {
+    "mi": 49.70290754799177,
+    "rank": "A"
+  },
+  "test/services/test_webui_i18n.py": {
+    "mi": 38.38923086695072,
+    "rank": "A"
+  },
+  "test/services/test_concat_model_default.py": {
+    "mi": 52.3104108921515,
+    "rank": "A"
+  },
+  "test/services/test_upload_post_missing_platform.py": {
+    "mi": 60.76939275565254,
+    "rank": "A"
+  },
+  "test/services/test_download_directory_race.py": {
+    "mi": 55.12538314993381,
+    "rank": "A"
+  },
+  "test/services/test_material_cover_picture.py": {
+    "mi": 57.30798067970121,
+    "rank": "A"
+  },
+  "test/services/test_voxcpm_truncated_reference.py": {
+    "mi": 57.102314925454735,
+    "rank": "A"
+  },
+  "test/services/test_speech_post_redirects.py": {
+    "mi": 51.078328624536994,
+    "rank": "A"
+  },
+  "test/services/test_webui_llm_settings.py": {
+    "mi": 34.13771843087443,
+    "rank": "A"
+  },
+  "test/services/test_webui_audio_staging.py": {
+    "mi": 39.29834325232233,
+    "rank": "A"
+  },
+  "test/services/test_edge_atomic_audio.py": {
+    "mi": 50.21420215202056,
+    "rank": "A"
+  },
+  "test/services/test_loomloom.py": {
+    "mi": 24.985848409062513,
+    "rank": "A"
+  },
+  "test/services/test_redis_short_form_requests.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_config.py": {
+    "mi": 12.684957841406662,
+    "rank": "B"
+  },
+  "test/services/test_pexels_renditions.py": {
+    "mi": 52.52126772698507,
+    "rank": "A"
+  },
+  "test/services/test_subtitle.py": {
+    "mi": 42.08821621252778,
+    "rank": "A"
+  },
+  "test/services/test_compatible_speech_transport.py": {
+    "mi": 56.28229487807572,
+    "rank": "A"
+  },
+  "test/services/test_fluxionai_llm.py": {
+    "mi": 47.999903173050086,
+    "rank": "A"
+  },
+  "test/services/test_video_color_tags.py": {
+    "mi": 73.22072557925863,
+    "rank": "A"
+  },
+  "test/services/test_youtube_audience.py": {
+    "mi": 42.05741922740806,
+    "rank": "A"
+  },
+  "test/services/test_material_source_preflight.py": {
+    "mi": 60.596716260618756,
+    "rank": "A"
+  },
+  "test/services/test_ofox.py": {
+    "mi": 29.97310508782868,
+    "rank": "A"
+  },
+  "test/services/test_webui_loomloom.py": {
+    "mi": 15.357386057672405,
+    "rank": "B"
+  },
+  "test/services/test_voxcpm_stream_bounds.py": {
+    "mi": 41.424469507678054,
+    "rank": "A"
+  },
+  "test/services/test_minimax_success_retry.py": {
+    "mi": 55.774565144019796,
+    "rank": "A"
+  },
+  "test/services/test_media_mimo_publication.py": {
+    "mi": 38.365209335871945,
+    "rank": "A"
+  },
+  "test/services/test_media_image_fallback.py": {
+    "mi": 58.227455134848014,
+    "rank": "A"
+  },
+  "test/services/test_loom_poll_deadline_native.py": {
+    "mi": 56.58375777837457,
+    "rank": "A"
+  },
+  "test/services/test_webui_local_material_upload.py": {
+    "mi": 37.67758722966549,
+    "rank": "A"
+  },
+  "test/services/test_clip_speed.py": {
+    "mi": 61.544740658887974,
+    "rank": "A"
+  },
+  "test/services/test_webui_kokoro.py": {
+    "mi": 46.870668739303134,
+    "rank": "A"
+  },
+  "test/services/test_subtitle_background_settings.py": {
+    "mi": 65.65697242887305,
+    "rank": "A"
+  },
+  "test/services/test_artifact_uri_escaping.py": {
+    "mi": 56.26758062056639,
+    "rank": "A"
+  },
+  "test/services/test_redis_queue_admission.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_audio_stage_terms.py": {
+    "mi": 57.61367852513944,
+    "rank": "A"
+  },
+  "test/services/test_state_string_values.py": {
+    "mi": 49.685744012999564,
+    "rank": "A"
+  },
+  "test/services/test_upload_response_recovery.py": {
+    "mi": 51.79100340179894,
+    "rank": "A"
+  },
+  "test/services/test_twelvelabs.py": {
+    "mi": 64.49575337447432,
+    "rank": "A"
+  },
+  "test/services/test_video.py": {
+    "mi": 13.106166109021437,
+    "rank": "B"
+  },
+  "test/services/test_pause_concat_completeness.py": {
+    "mi": 44.984320917678076,
+    "rank": "A"
+  },
+  "test/services/test_cli.py": {
+    "mi": 6.497529000316658,
+    "rank": "C"
+  },
+  "test/services/test_gemini_atomic_export.py": {
+    "mi": 62.767779313080354,
+    "rank": "A"
+  },
+  "test/services/test_concat_manifest_isolation.py": {
+    "mi": 51.507802468098085,
+    "rank": "A"
+  },
+  "test/services/test_image_submission_redirect.py": {
+    "mi": 55.65757266842649,
+    "rank": "A"
+  },
+  "test/services/test_bgm.py": {
+    "mi": 53.34356587525754,
+    "rank": "A"
+  },
+  "test/services/test_loomloom_request_redirects.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_generated_term_contract.py": {
+    "mi": 60.34288912416956,
+    "rank": "A"
+  },
+  "test/services/test_azure_boundary_duration.py": {
+    "mi": 65.15046427499539,
+    "rank": "A"
+  },
+  "test/services/test_webui_voice_preview.py": {
+    "mi": 19.006661005371303,
+    "rank": "A"
+  },
+  "test/services/test_serial_material_search.py": {
+    "mi": 59.11363534921315,
+    "rank": "A"
+  },
+  "test/services/test_batch_material_allocation.py": {
+    "mi": 31.6279877113515,
+    "rank": "A"
+  },
+  "test/services/test_task_artifacts.py": {
+    "mi": 48.84225244501645,
+    "rank": "A"
+  },
+  "test/services/test_subtitle_manual_wrap.py": {
+    "mi": 51.41475084680524,
+    "rank": "A"
+  },
+  "test/services/test_media_atomic_concat.py": {
+    "mi": 48.7468539438087,
+    "rank": "A"
+  },
+  "test/services/test_elevenlabs_music.py": {
+    "mi": 31.523967882959933,
+    "rank": "A"
+  },
+  "test/services/test_kokoro_integration.py": {
+    "mi": 71.02296228698476,
+    "rank": "A"
+  },
+  "test/services/test_config_flush_start.py": {
+    "mi": 53.66895095599239,
+    "rank": "A"
+  },
+  "test/services/test_upload_post_privacy_fallback.py": {
+    "mi": 58.90971115781986,
+    "rank": "A"
+  },
+  "test/services/test_audio_export_volume.py": {
+    "mi": 48.1349104014398,
+    "rank": "A"
+  },
+  "test/services/test_directory_creation.py": {
+    "mi": 48.80518332180828,
+    "rank": "A"
+  },
+  "test/services/test_config_initialization.py": {
+    "mi": 44.35061352059532,
+    "rank": "A"
+  },
+  "test/services/test_controller_ping.py": {
+    "mi": 75.15517382051522,
+    "rank": "A"
+  },
+  "test/services/test_material_cache.py": {
+    "mi": 43.33414647807447,
+    "rank": "A"
+  },
+  "test/services/test_webui_seedance.py": {
+    "mi": 51.78076909312117,
+    "rank": "A"
+  },
+  "test/services/test_state.py": {
+    "mi": 30.92073359177133,
+    "rank": "A"
+  },
+  "test/services/test_webui_catalan.py": {
+    "mi": 57.24552619357843,
+    "rank": "A"
+  },
+  "test/services/test_concurrent_task_delete.py": {
+    "mi": 58.98993919791214,
+    "rank": "A"
+  },
+  "test/services/test_kokoro.py": {
+    "mi": 41.168387425632375,
+    "rank": "A"
+  },
+  "test/services/test_asgi_cors.py": {
+    "mi": 56.529089764788296,
+    "rank": "A"
+  },
+  "test/services/test_volcengine_seedance.py": {
+    "mi": 25.402071234300124,
+    "rank": "A"
+  },
+  "test/services/test_video_reader_stdout.py": {
+    "mi": 64.73557300858478,
+    "rank": "A"
+  },
+  "test/services/test_upload_post_account_snapshot.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_webui_headless_task_actions.py": {
+    "mi": 71.26466093497092,
+    "rank": "A"
+  },
+  "test/services/test_image_exif_orientation.py": {
+    "mi": 52.06685547716017,
+    "rank": "A"
+  },
+  "test/services/test_bgm_decoded_audio.py": {
+    "mi": 55.72769908758085,
+    "rank": "A"
+  },
+  "test/services/test_schema.py": {
+    "mi": 54.0045338874123,
+    "rank": "A"
+  },
+  "test/services/test_edge_backpressure.py": {
+    "mi": 52.728133790453754,
+    "rank": "A"
+  },
+  "test/services/test_webui_tts_settings.py": {
+    "mi": 30.415652907063667,
+    "rank": "A"
+  },
+  "test/services/test_controller_base.py": {
+    "mi": 55.11174888684019,
+    "rank": "A"
+  },
+  "test/services/test_webui_muapi.py": {
+    "mi": 51.78076909312117,
+    "rank": "A"
+  },
+  "test/services/test_media_accepted_audio_retries.py": {
+    "mi": 48.333692240949055,
+    "rank": "A"
+  },
+  "test/services/test_llm_api_failures.py": {
+    "mi": 65.60464344740575,
+    "rank": "A"
+  },
+  "test/services/test_llm_client_cleanup.py": {
+    "mi": 59.50435850973601,
+    "rank": "A"
+  },
+  "test/services/test_video_project.py": {
+    "mi": 15.42504797312324,
+    "rank": "B"
+  },
+  "test/services/test_material_openai_image.py": {
+    "mi": 47.7254230624391,
+    "rank": "A"
+  },
+  "test/services/test_loomloom_pagination_cycles.py": {
+    "mi": 52.07404780982505,
+    "rank": "A"
+  },
+  "test/services/test_material_cache_duration.py": {
+    "mi": 59.563182348414905,
+    "rank": "A"
+  },
+  "test/services/test_webui_ofox_placement.py": {
+    "mi": 59.3906851062118,
+    "rank": "A"
+  },
+  "test/services/test_video_term_items.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_webui_settings_transfer.py": {
+    "mi": 30.849491984447035,
+    "rank": "A"
+  },
+  "test/services/test_version_checker.py": {
+    "mi": 34.17635778646062,
+    "rank": "A"
+  },
+  "test/services/test_mimo_paid_retries.py": {
+    "mi": 54.226430068271725,
+    "rank": "A"
+  },
+  "test/services/test_sonilo.py": {
+    "mi": 24.844837052851567,
+    "rank": "A"
+  },
+  "test/services/test_task_manager.py": {
+    "mi": 46.095208475671974,
+    "rank": "A"
+  },
+  "test/services/test_queue_signature.py": {
+    "mi": 49.75484445569042,
+    "rank": "A"
+  },
+  "test/services/test_blank_material_terms.py": {
+    "mi": 59.27741872963095,
+    "rank": "A"
+  },
+  "test/services/test_material_cache_replacement.py": {
+    "mi": 47.6420805539923,
+    "rank": "A"
+  },
+  "test/services/test_upload_post_timeout_id.py": {
+    "mi": 51.89359122589216,
+    "rank": "A"
+  },
+  "test/services/test_webui_ofox.py": {
+    "mi": 51.78076909312117,
+    "rank": "A"
+  },
+  "test/services/test_media_srt_publication.py": {
+    "mi": 47.197526515335966,
+    "rank": "A"
+  },
+  "test/services/test_webui_startup.py": {
+    "mi": 55.97790529029716,
+    "rank": "A"
+  },
+  "test/services/test_voice.py": {
+    "mi": 3.951191301074204,
+    "rank": "C"
+  },
+  "test/services/test_mpt_agent_skill.py": {
+    "mi": 24.46950328939224,
+    "rank": "A"
+  },
+  "test/services/test_llm.py": {
+    "mi": 3.9912885012038433,
+    "rank": "C"
+  },
+  "test/services/test_cache_manager.py": {
+    "mi": 44.2508625121241,
+    "rank": "A"
+  },
+  "test/services/test_voxcpm.py": {
+    "mi": 21.63017174282089,
+    "rank": "A"
+  },
+  "test/services/test_webui_generation_defaults.py": {
+    "mi": 26.583000450934883,
+    "rank": "A"
+  },
+  "test/services/test_state_input_snapshot.py": {
+    "mi": 59.88207097075119,
+    "rank": "A"
+  },
+  "test/services/test_webui_loomloom_regressions.py": {
+    "mi": 24.28658309816061,
+    "rank": "A"
+  },
+  "test/services/test_api_validation_json.py": {
+    "mi": 45.71169997689135,
+    "rank": "A"
+  },
+  "test/services/test_task.py": {
+    "mi": 18.448371722059022,
+    "rank": "B"
+  },
+  "test/services/test_retry_diagnostics.py": {
+    "mi": 52.65870525672703,
+    "rank": "A"
+  },
+  "test/services/test_sonilo_event_bound.py": {
+    "mi": 60.56881848171253,
+    "rank": "A"
+  },
+  "test/services/test_loom_download_staging_native.py": {
+    "mi": 51.87661418813974,
+    "rank": "A"
+  },
+  "test/services/test_webui_task.py": {
+    "mi": 18.77861643405608,
+    "rank": "B"
+  },
+  "test/services/test_material.py": {
+    "mi": 13.951806858242044,
+    "rank": "B"
+  },
+  "test/services/test_webui_upload_post_settings.py": {
+    "mi": 58.87477422877228,
+    "rank": "A"
+  },
+  "test/services/test_redis_patch_ownership.py": {
+    "mi": 47.124636006319356,
+    "rank": "A"
+  },
+  "test/services/test_subtitle_stage_result.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/services/test_asgi_static_files.py": {
+    "mi": 53.32832466027456,
+    "rank": "A"
+  },
+  "test/services/test_render_parameter_validation.py": {
+    "mi": 60.371246538232896,
+    "rank": "A"
+  },
+  "test/services/test_controller_llm.py": {
+    "mi": 56.421395445618266,
+    "rank": "A"
+  },
+  "test/services/test_bgm_list_race.py": {
+    "mi": 68.17947009983793,
+    "rank": "A"
+  },
+  "test/services/test_webui_custom_audio_upload.py": {
+    "mi": 36.69508095457345,
+    "rank": "A"
+  },
+  "test/services/test_artifact_download_mime.py": {
+    "mi": 58.36712619334779,
+    "rank": "A"
+  },
+  "test/services/test_upload_post.py": {
+    "mi": 31.03902499550142,
+    "rank": "A"
+  },
+  "test/services/test_finite_audio_parameters.py": {
+    "mi": 53.60469076345847,
+    "rank": "A"
+  },
+  "test/services/test_music_provider_redirects.py": {
+    "mi": 44.32438446552575,
+    "rank": "A"
+  },
+  "test/services/test_standalone_upload_containers.py": {
+    "mi": 66.19241711112892,
+    "rank": "A"
+  }
+}

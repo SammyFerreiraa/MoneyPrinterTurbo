@@ -1,0 +1,1793 @@
+{
+  "app/__init__.py": {
+    "loc": 3,
+    "lloc": 2,
+    "sloc": 1,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 1
+  },
+  "app/asgi.py": {
+    "loc": 307,
+    "lloc": 140,
+    "sloc": 186,
+    "comments": 31,
+    "multi": 30,
+    "blank": 60,
+    "single_comments": 31
+  },
+  "app/router.py": {
+    "loc": 20,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 1,
+    "multi": 5,
+    "blank": 7,
+    "single_comments": 1
+  },
+  "app/services/elevenlabs_music.py": {
+    "loc": 424,
+    "lloc": 211,
+    "sloc": 342,
+    "comments": 9,
+    "multi": 24,
+    "blank": 42,
+    "single_comments": 16
+  },
+  "app/services/video_project.py": {
+    "loc": 945,
+    "lloc": 489,
+    "sloc": 877,
+    "comments": 8,
+    "multi": 4,
+    "blank": 53,
+    "single_comments": 11
+  },
+  "app/services/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "app/services/material_cache.py": {
+    "loc": 480,
+    "lloc": 230,
+    "sloc": 375,
+    "comments": 15,
+    "multi": 34,
+    "blank": 51,
+    "single_comments": 20
+  },
+  "app/services/material_upload.py": {
+    "loc": 323,
+    "lloc": 154,
+    "sloc": 255,
+    "comments": 35,
+    "multi": 0,
+    "blank": 35,
+    "single_comments": 33
+  },
+  "app/services/cache_manager.py": {
+    "loc": 252,
+    "lloc": 136,
+    "sloc": 173,
+    "comments": 14,
+    "multi": 17,
+    "blank": 42,
+    "single_comments": 20
+  },
+  "app/services/subtitle.py": {
+    "loc": 383,
+    "lloc": 243,
+    "sloc": 306,
+    "comments": 12,
+    "multi": 0,
+    "blank": 63,
+    "single_comments": 14
+  },
+  "app/services/volcengine_seedance.py": {
+    "loc": 462,
+    "lloc": 229,
+    "sloc": 377,
+    "comments": 19,
+    "multi": 6,
+    "blank": 56,
+    "single_comments": 23
+  },
+  "app/services/loomloom.py": {
+    "loc": 994,
+    "lloc": 572,
+    "sloc": 852,
+    "comments": 20,
+    "multi": 23,
+    "blank": 94,
+    "single_comments": 25
+  },
+  "app/services/upload_post.py": {
+    "loc": 407,
+    "lloc": 211,
+    "sloc": 327,
+    "comments": 17,
+    "multi": 11,
+    "blank": 50,
+    "single_comments": 19
+  },
+  "app/services/task.py": {
+    "loc": 1892,
+    "lloc": 771,
+    "sloc": 1511,
+    "comments": 139,
+    "multi": 54,
+    "blank": 176,
+    "single_comments": 151
+  },
+  "app/services/sonilo.py": {
+    "loc": 422,
+    "lloc": 253,
+    "sloc": 338,
+    "comments": 13,
+    "multi": 20,
+    "blank": 42,
+    "single_comments": 22
+  },
+  "app/services/ofox.py": {
+    "loc": 481,
+    "lloc": 234,
+    "sloc": 372,
+    "comments": 25,
+    "multi": 21,
+    "blank": 59,
+    "single_comments": 29
+  },
+  "app/services/llm.py": {
+    "loc": 1244,
+    "lloc": 568,
+    "sloc": 904,
+    "comments": 114,
+    "multi": 57,
+    "blank": 174,
+    "single_comments": 109
+  },
+  "app/services/voice.py": {
+    "loc": 3673,
+    "lloc": 1971,
+    "sloc": 2705,
+    "comments": 184,
+    "multi": 332,
+    "blank": 449,
+    "single_comments": 187
+  },
+  "app/services/twelvelabs.py": {
+    "loc": 177,
+    "lloc": 78,
+    "sloc": 89,
+    "comments": 11,
+    "multi": 43,
+    "blank": 35,
+    "single_comments": 10
+  },
+  "app/services/version_checker.py": {
+    "loc": 211,
+    "lloc": 116,
+    "sloc": 145,
+    "comments": 11,
+    "multi": 16,
+    "blank": 34,
+    "single_comments": 16
+  },
+  "app/services/bgm.py": {
+    "loc": 416,
+    "lloc": 200,
+    "sloc": 274,
+    "comments": 39,
+    "multi": 48,
+    "blank": 53,
+    "single_comments": 41
+  },
+  "app/services/task_artifacts.py": {
+    "loc": 106,
+    "lloc": 55,
+    "sloc": 68,
+    "comments": 2,
+    "multi": 13,
+    "blank": 20,
+    "single_comments": 5
+  },
+  "app/services/material.py": {
+    "loc": 3037,
+    "lloc": 1451,
+    "sloc": 2330,
+    "comments": 184,
+    "multi": 224,
+    "blank": 285,
+    "single_comments": 198
+  },
+  "app/services/metaso_minimax.py": {
+    "loc": 468,
+    "lloc": 230,
+    "sloc": 382,
+    "comments": 12,
+    "multi": 11,
+    "blank": 55,
+    "single_comments": 20
+  },
+  "app/services/video.py": {
+    "loc": 1971,
+    "lloc": 955,
+    "sloc": 1420,
+    "comments": 214,
+    "multi": 120,
+    "blank": 212,
+    "single_comments": 219
+  },
+  "app/services/webui_task.py": {
+    "loc": 199,
+    "lloc": 72,
+    "sloc": 146,
+    "comments": 23,
+    "multi": 13,
+    "blank": 15,
+    "single_comments": 25
+  },
+  "app/services/state.py": {
+    "loc": 305,
+    "lloc": 151,
+    "sloc": 208,
+    "comments": 37,
+    "multi": 15,
+    "blank": 45,
+    "single_comments": 37
+  },
+  "app/services/muapi.py": {
+    "loc": 456,
+    "lloc": 234,
+    "sloc": 380,
+    "comments": 7,
+    "multi": 6,
+    "blank": 58,
+    "single_comments": 12
+  },
+  "app/services/utils/video_effects.py": {
+    "loc": 145,
+    "lloc": 78,
+    "sloc": 92,
+    "comments": 17,
+    "multi": 6,
+    "blank": 31,
+    "single_comments": 16
+  },
+  "app/models/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "app/models/exception.py": {
+    "loc": 31,
+    "lloc": 19,
+    "sloc": 21,
+    "comments": 4,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 4
+  },
+  "app/models/schema.py": {
+    "loc": 579,
+    "lloc": 374,
+    "sloc": 395,
+    "comments": 22,
+    "multi": 49,
+    "blank": 116,
+    "single_comments": 19
+  },
+  "app/models/llm_provider.py": {
+    "loc": 537,
+    "lloc": 157,
+    "sloc": 462,
+    "comments": 20,
+    "multi": 18,
+    "blank": 42,
+    "single_comments": 15
+  },
+  "app/models/const.py": {
+    "loc": 35,
+    "lloc": 10,
+    "sloc": 32,
+    "comments": 2,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "app/config/__init__.py": {
+    "loc": 29,
+    "lloc": 7,
+    "sloc": 11,
+    "comments": 11,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "app/config/config.py": {
+    "loc": 653,
+    "lloc": 374,
+    "sloc": 427,
+    "comments": 37,
+    "multi": 76,
+    "blank": 106,
+    "single_comments": 44
+  },
+  "app/utils/file_security.py": {
+    "loc": 35,
+    "lloc": 18,
+    "sloc": 23,
+    "comments": 5,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 5
+  },
+  "app/utils/utils.py": {
+    "loc": 545,
+    "lloc": 304,
+    "sloc": 350,
+    "comments": 33,
+    "multi": 55,
+    "blank": 105,
+    "single_comments": 35
+  },
+  "app/utils/subtitle_writer.py": {
+    "loc": 60,
+    "lloc": 31,
+    "sloc": 33,
+    "comments": 0,
+    "multi": 15,
+    "blank": 11,
+    "single_comments": 1
+  },
+  "app/utils/logging_utils.py": {
+    "loc": 136,
+    "lloc": 65,
+    "sloc": 70,
+    "comments": 15,
+    "multi": 27,
+    "blank": 23,
+    "single_comments": 16
+  },
+  "app/controllers/ping.py": {
+    "loc": 13,
+    "lloc": 5,
+    "sloc": 10,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "app/controllers/base.py": {
+    "loc": 98,
+    "lloc": 40,
+    "sloc": 59,
+    "comments": 10,
+    "multi": 5,
+    "blank": 22,
+    "single_comments": 12
+  },
+  "app/controllers/v1/llm.py": {
+    "loc": 79,
+    "lloc": 28,
+    "sloc": 69,
+    "comments": 2,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "app/controllers/v1/base.py": {
+    "loc": 11,
+    "lloc": 8,
+    "sloc": 8,
+    "comments": 1,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 1
+  },
+  "app/controllers/v1/video.py": {
+    "loc": 572,
+    "lloc": 293,
+    "sloc": 469,
+    "comments": 37,
+    "multi": 6,
+    "blank": 61,
+    "single_comments": 36
+  },
+  "app/controllers/manager/redis_manager.py": {
+    "loc": 189,
+    "lloc": 81,
+    "sloc": 125,
+    "comments": 40,
+    "multi": 5,
+    "blank": 20,
+    "single_comments": 39
+  },
+  "app/controllers/manager/memory_manager.py": {
+    "loc": 21,
+    "lloc": 14,
+    "sloc": 14,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "app/controllers/manager/base_manager.py": {
+    "loc": 146,
+    "lloc": 89,
+    "sloc": 100,
+    "comments": 13,
+    "multi": 10,
+    "blank": 22,
+    "single_comments": 14
+  },
+  "test/__init__.py": {
+    "loc": 1,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 1,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 1
+  },
+  "test/test_main.py": {
+    "loc": 30,
+    "lloc": 10,
+    "sloc": 20,
+    "comments": 0,
+    "multi": 4,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_metaso_minimax.py": {
+    "loc": 435,
+    "lloc": 172,
+    "sloc": 387,
+    "comments": 0,
+    "multi": 0,
+    "blank": 46,
+    "single_comments": 2
+  },
+  "test/services/test_state_wrongtype.py": {
+    "loc": 70,
+    "lloc": 56,
+    "sloc": 56,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "test/services/test_video_effects.py": {
+    "loc": 195,
+    "lloc": 118,
+    "sloc": 144,
+    "comments": 6,
+    "multi": 4,
+    "blank": 37,
+    "single_comments": 10
+  },
+  "test/services/__init__.py": {
+    "loc": 1,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 1,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 1
+  },
+  "test/services/test_twelvelabs_client_lifecycle.py": {
+    "loc": 53,
+    "lloc": 32,
+    "sloc": 46,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/services/test_cli_stage_files.py": {
+    "loc": 52,
+    "lloc": 19,
+    "sloc": 46,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_webui_bgm.py": {
+    "loc": 586,
+    "lloc": 279,
+    "sloc": 499,
+    "comments": 13,
+    "multi": 0,
+    "blank": 60,
+    "single_comments": 27
+  },
+  "test/services/test_azure_locale_escaping.py": {
+    "loc": 24,
+    "lloc": 22,
+    "sloc": 22,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_webui_metaso_minimax.py": {
+    "loc": 130,
+    "lloc": 65,
+    "sloc": 107,
+    "comments": 0,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 3
+  },
+  "test/services/test_muapi.py": {
+    "loc": 454,
+    "lloc": 183,
+    "sloc": 404,
+    "comments": 0,
+    "multi": 0,
+    "blank": 50,
+    "single_comments": 0
+  },
+  "test/services/test_combine_clip_isolation.py": {
+    "loc": 62,
+    "lloc": 55,
+    "sloc": 52,
+    "comments": 2,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "test/services/test_script_patch_concurrency.py": {
+    "loc": 53,
+    "lloc": 38,
+    "sloc": 44,
+    "comments": 2,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 2
+  },
+  "test/services/test_webui_grouped_select.py": {
+    "loc": 183,
+    "lloc": 97,
+    "sloc": 144,
+    "comments": 6,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 12
+  },
+  "test/services/test_api_authentication.py": {
+    "loc": 109,
+    "lloc": 53,
+    "sloc": 74,
+    "comments": 2,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 8
+  },
+  "test/services/test_fish_audio.py": {
+    "loc": 334,
+    "lloc": 193,
+    "sloc": 239,
+    "comments": 3,
+    "multi": 11,
+    "blank": 64,
+    "single_comments": 20
+  },
+  "test/services/test_webui_task_history.py": {
+    "loc": 263,
+    "lloc": 99,
+    "sloc": 206,
+    "comments": 2,
+    "multi": 5,
+    "blank": 44,
+    "single_comments": 8
+  },
+  "test/services/test_material_upload.py": {
+    "loc": 421,
+    "lloc": 161,
+    "sloc": 368,
+    "comments": 20,
+    "multi": 0,
+    "blank": 40,
+    "single_comments": 13
+  },
+  "test/services/test_controller_video.py": {
+    "loc": 909,
+    "lloc": 480,
+    "sloc": 731,
+    "comments": 3,
+    "multi": 12,
+    "blank": 129,
+    "single_comments": 37
+  },
+  "test/services/test_upload_redirect_handle_native.py": {
+    "loc": 43,
+    "lloc": 33,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_utils_ffmpeg_check.py": {
+    "loc": 67,
+    "lloc": 33,
+    "sloc": 51,
+    "comments": 1,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 2
+  },
+  "test/services/test_paid_video_provider_redirects.py": {
+    "loc": 119,
+    "lloc": 72,
+    "sloc": 99,
+    "comments": 0,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 1
+  },
+  "test/services/test_webui_i18n.py": {
+    "loc": 381,
+    "lloc": 155,
+    "sloc": 316,
+    "comments": 4,
+    "multi": 5,
+    "blank": 48,
+    "single_comments": 12
+  },
+  "test/services/test_concat_model_default.py": {
+    "loc": 94,
+    "lloc": 36,
+    "sloc": 85,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/services/test_upload_post_missing_platform.py": {
+    "loc": 44,
+    "lloc": 35,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_download_directory_race.py": {
+    "loc": 29,
+    "lloc": 28,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "test/services/test_material_cover_picture.py": {
+    "loc": 41,
+    "lloc": 27,
+    "sloc": 36,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_voxcpm_truncated_reference.py": {
+    "loc": 33,
+    "lloc": 29,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_speech_post_redirects.py": {
+    "loc": 41,
+    "lloc": 41,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/services/test_webui_llm_settings.py": {
+    "loc": 243,
+    "lloc": 118,
+    "sloc": 207,
+    "comments": 3,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 8
+  },
+  "test/services/test_webui_audio_staging.py": {
+    "loc": 91,
+    "lloc": 74,
+    "sloc": 77,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "test/services/test_edge_atomic_audio.py": {
+    "loc": 47,
+    "lloc": 34,
+    "sloc": 40,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/services/test_loomloom.py": {
+    "loc": 789,
+    "lloc": 318,
+    "sloc": 688,
+    "comments": 0,
+    "multi": 0,
+    "blank": 94,
+    "single_comments": 7
+  },
+  "test/services/test_redis_short_form_requests.py": {
+    "loc": 76,
+    "lloc": 53,
+    "sloc": 67,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "test/services/test_config.py": {
+    "loc": 616,
+    "lloc": 440,
+    "sloc": 492,
+    "comments": 5,
+    "multi": 13,
+    "blank": 86,
+    "single_comments": 25
+  },
+  "test/services/test_pexels_renditions.py": {
+    "loc": 114,
+    "lloc": 35,
+    "sloc": 105,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/services/test_subtitle.py": {
+    "loc": 468,
+    "lloc": 240,
+    "sloc": 360,
+    "comments": 1,
+    "multi": 27,
+    "blank": 71,
+    "single_comments": 10
+  },
+  "test/services/test_compatible_speech_transport.py": {
+    "loc": 26,
+    "lloc": 21,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_fluxionai_llm.py": {
+    "loc": 138,
+    "lloc": 61,
+    "sloc": 117,
+    "comments": 1,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 6
+  },
+  "test/services/test_video_color_tags.py": {
+    "loc": 59,
+    "lloc": 33,
+    "sloc": 40,
+    "comments": 5,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 5
+  },
+  "test/services/test_youtube_audience.py": {
+    "loc": 194,
+    "lloc": 112,
+    "sloc": 167,
+    "comments": 2,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 9
+  },
+  "test/services/test_material_source_preflight.py": {
+    "loc": 39,
+    "lloc": 21,
+    "sloc": 35,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "test/services/test_ofox.py": {
+    "loc": 941,
+    "lloc": 415,
+    "sloc": 829,
+    "comments": 19,
+    "multi": 0,
+    "blank": 93,
+    "single_comments": 19
+  },
+  "test/services/test_webui_loomloom.py": {
+    "loc": 591,
+    "lloc": 240,
+    "sloc": 520,
+    "comments": 3,
+    "multi": 0,
+    "blank": 67,
+    "single_comments": 4
+  },
+  "test/services/test_voxcpm_stream_bounds.py": {
+    "loc": 146,
+    "lloc": 107,
+    "sloc": 122,
+    "comments": 1,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 1
+  },
+  "test/services/test_minimax_success_retry.py": {
+    "loc": 42,
+    "lloc": 40,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "test/services/test_media_mimo_publication.py": {
+    "loc": 94,
+    "lloc": 77,
+    "sloc": 77,
+    "comments": 0,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 0
+  },
+  "test/services/test_media_image_fallback.py": {
+    "loc": 23,
+    "lloc": 19,
+    "sloc": 18,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_loom_poll_deadline_native.py": {
+    "loc": 61,
+    "lloc": 33,
+    "sloc": 56,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_webui_local_material_upload.py": {
+    "loc": 144,
+    "lloc": 77,
+    "sloc": 115,
+    "comments": 0,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 1
+  },
+  "test/services/test_clip_speed.py": {
+    "loc": 30,
+    "lloc": 21,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/services/test_webui_kokoro.py": {
+    "loc": 88,
+    "lloc": 65,
+    "sloc": 70,
+    "comments": 1,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 3
+  },
+  "test/services/test_subtitle_background_settings.py": {
+    "loc": 164,
+    "lloc": 64,
+    "sloc": 121,
+    "comments": 2,
+    "multi": 17,
+    "blank": 23,
+    "single_comments": 3
+  },
+  "test/services/test_artifact_uri_escaping.py": {
+    "loc": 22,
+    "lloc": 20,
+    "sloc": 20,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_redis_queue_admission.py": {
+    "loc": 87,
+    "lloc": 60,
+    "sloc": 69,
+    "comments": 4,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 5
+  },
+  "test/services/test_audio_stage_terms.py": {
+    "loc": 30,
+    "lloc": 23,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_state_string_values.py": {
+    "loc": 39,
+    "lloc": 34,
+    "sloc": 33,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_upload_response_recovery.py": {
+    "loc": 30,
+    "lloc": 32,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_twelvelabs.py": {
+    "loc": 183,
+    "lloc": 106,
+    "sloc": 124,
+    "comments": 17,
+    "multi": 5,
+    "blank": 37,
+    "single_comments": 17
+  },
+  "test/services/test_video.py": {
+    "loc": 2113,
+    "lloc": 1001,
+    "sloc": 1621,
+    "comments": 24,
+    "multi": 152,
+    "blank": 290,
+    "single_comments": 50
+  },
+  "test/services/test_pause_concat_completeness.py": {
+    "loc": 60,
+    "lloc": 49,
+    "sloc": 48,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_cli.py": {
+    "loc": 2273,
+    "lloc": 951,
+    "sloc": 1878,
+    "comments": 25,
+    "multi": 75,
+    "blank": 274,
+    "single_comments": 46
+  },
+  "test/services/test_gemini_atomic_export.py": {
+    "loc": 31,
+    "lloc": 30,
+    "sloc": 29,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_concat_manifest_isolation.py": {
+    "loc": 55,
+    "lloc": 42,
+    "sloc": 49,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_image_submission_redirect.py": {
+    "loc": 56,
+    "lloc": 45,
+    "sloc": 47,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/services/test_bgm.py": {
+    "loc": 444,
+    "lloc": 189,
+    "sloc": 374,
+    "comments": 22,
+    "multi": 6,
+    "blank": 50,
+    "single_comments": 14
+  },
+  "test/services/test_loomloom_request_redirects.py": {
+    "loc": 65,
+    "lloc": 49,
+    "sloc": 57,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "test/services/test_generated_term_contract.py": {
+    "loc": 24,
+    "lloc": 17,
+    "sloc": 17,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/services/test_azure_boundary_duration.py": {
+    "loc": 23,
+    "lloc": 23,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_webui_voice_preview.py": {
+    "loc": 685,
+    "lloc": 296,
+    "sloc": 577,
+    "comments": 2,
+    "multi": 0,
+    "blank": 90,
+    "single_comments": 18
+  },
+  "test/services/test_serial_material_search.py": {
+    "loc": 30,
+    "lloc": 22,
+    "sloc": 24,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_batch_material_allocation.py": {
+    "loc": 196,
+    "lloc": 106,
+    "sloc": 162,
+    "comments": 0,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 0
+  },
+  "test/services/test_task_artifacts.py": {
+    "loc": 101,
+    "lloc": 55,
+    "sloc": 80,
+    "comments": 0,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 4
+  },
+  "test/services/test_subtitle_manual_wrap.py": {
+    "loc": 34,
+    "lloc": 28,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_media_atomic_concat.py": {
+    "loc": 46,
+    "lloc": 36,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "test/services/test_elevenlabs_music.py": {
+    "loc": 653,
+    "lloc": 243,
+    "sloc": 585,
+    "comments": 3,
+    "multi": 4,
+    "blank": 56,
+    "single_comments": 8
+  },
+  "test/services/test_kokoro_integration.py": {
+    "loc": 50,
+    "lloc": 27,
+    "sloc": 34,
+    "comments": 0,
+    "multi": 4,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_config_flush_start.py": {
+    "loc": 46,
+    "lloc": 41,
+    "sloc": 40,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_upload_post_privacy_fallback.py": {
+    "loc": 48,
+    "lloc": 26,
+    "sloc": 42,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_audio_export_volume.py": {
+    "loc": 90,
+    "lloc": 58,
+    "sloc": 77,
+    "comments": 1,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "test/services/test_directory_creation.py": {
+    "loc": 56,
+    "lloc": 41,
+    "sloc": 45,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "test/services/test_config_initialization.py": {
+    "loc": 155,
+    "lloc": 102,
+    "sloc": 130,
+    "comments": 3,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 3
+  },
+  "test/services/test_controller_ping.py": {
+    "loc": 14,
+    "lloc": 8,
+    "sloc": 8,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_material_cache.py": {
+    "loc": 646,
+    "lloc": 249,
+    "sloc": 518,
+    "comments": 2,
+    "multi": 45,
+    "blank": 71,
+    "single_comments": 12
+  },
+  "test/services/test_webui_seedance.py": {
+    "loc": 62,
+    "lloc": 29,
+    "sloc": 50,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_state.py": {
+    "loc": 447,
+    "lloc": 259,
+    "sloc": 359,
+    "comments": 4,
+    "multi": 5,
+    "blank": 72,
+    "single_comments": 11
+  },
+  "test/services/test_webui_catalan.py": {
+    "loc": 83,
+    "lloc": 46,
+    "sloc": 66,
+    "comments": 4,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 5
+  },
+  "test/services/test_concurrent_task_delete.py": {
+    "loc": 73,
+    "lloc": 51,
+    "sloc": 62,
+    "comments": 2,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 2
+  },
+  "test/services/test_kokoro.py": {
+    "loc": 138,
+    "lloc": 101,
+    "sloc": 113,
+    "comments": 2,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 4
+  },
+  "test/services/test_asgi_cors.py": {
+    "loc": 292,
+    "lloc": 137,
+    "sloc": 216,
+    "comments": 6,
+    "multi": 0,
+    "blank": 56,
+    "single_comments": 20
+  },
+  "test/services/test_volcengine_seedance.py": {
+    "loc": 913,
+    "lloc": 402,
+    "sloc": 820,
+    "comments": 8,
+    "multi": 0,
+    "blank": 85,
+    "single_comments": 8
+  },
+  "test/services/test_video_reader_stdout.py": {
+    "loc": 61,
+    "lloc": 53,
+    "sloc": 52,
+    "comments": 2,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 2
+  },
+  "test/services/test_upload_post_account_snapshot.py": {
+    "loc": 120,
+    "lloc": 73,
+    "sloc": 107,
+    "comments": 2,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 3
+  },
+  "test/services/test_webui_headless_task_actions.py": {
+    "loc": 82,
+    "lloc": 50,
+    "sloc": 50,
+    "comments": 13,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 12
+  },
+  "test/services/test_image_exif_orientation.py": {
+    "loc": 41,
+    "lloc": 41,
+    "sloc": 37,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "test/services/test_bgm_decoded_audio.py": {
+    "loc": 38,
+    "lloc": 28,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/services/test_schema.py": {
+    "loc": 175,
+    "lloc": 83,
+    "sloc": 143,
+    "comments": 2,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 7
+  },
+  "test/services/test_edge_backpressure.py": {
+    "loc": 108,
+    "lloc": 108,
+    "sloc": 98,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/services/test_webui_tts_settings.py": {
+    "loc": 406,
+    "lloc": 179,
+    "sloc": 332,
+    "comments": 3,
+    "multi": 4,
+    "blank": 57,
+    "single_comments": 13
+  },
+  "test/services/test_controller_base.py": {
+    "loc": 177,
+    "lloc": 100,
+    "sloc": 125,
+    "comments": 0,
+    "multi": 8,
+    "blank": 39,
+    "single_comments": 5
+  },
+  "test/services/test_webui_muapi.py": {
+    "loc": 60,
+    "lloc": 29,
+    "sloc": 48,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_media_accepted_audio_retries.py": {
+    "loc": 56,
+    "lloc": 40,
+    "sloc": 43,
+    "comments": 0,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "test/services/test_llm_api_failures.py": {
+    "loc": 33,
+    "lloc": 15,
+    "sloc": 31,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_llm_client_cleanup.py": {
+    "loc": 42,
+    "lloc": 40,
+    "sloc": 39,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/services/test_video_project.py": {
+    "loc": 584,
+    "lloc": 317,
+    "sloc": 507,
+    "comments": 7,
+    "multi": 0,
+    "blank": 73,
+    "single_comments": 4
+  },
+  "test/services/test_material_openai_image.py": {
+    "loc": 959,
+    "lloc": 393,
+    "sloc": 717,
+    "comments": 34,
+    "multi": 71,
+    "blank": 120,
+    "single_comments": 51
+  },
+  "test/services/test_loomloom_pagination_cycles.py": {
+    "loc": 71,
+    "lloc": 52,
+    "sloc": 61,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/services/test_material_cache_duration.py": {
+    "loc": 31,
+    "lloc": 19,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_webui_ofox_placement.py": {
+    "loc": 73,
+    "lloc": 41,
+    "sloc": 59,
+    "comments": 4,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 5
+  },
+  "test/services/test_video_term_items.py": {
+    "loc": 50,
+    "lloc": 30,
+    "sloc": 43,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 1
+  },
+  "test/services/test_webui_settings_transfer.py": {
+    "loc": 462,
+    "lloc": 206,
+    "sloc": 360,
+    "comments": 4,
+    "multi": 10,
+    "blank": 87,
+    "single_comments": 5
+  },
+  "test/services/test_version_checker.py": {
+    "loc": 264,
+    "lloc": 185,
+    "sloc": 202,
+    "comments": 0,
+    "multi": 0,
+    "blank": 59,
+    "single_comments": 3
+  },
+  "test/services/test_mimo_paid_retries.py": {
+    "loc": 45,
+    "lloc": 27,
+    "sloc": 37,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "test/services/test_sonilo.py": {
+    "loc": 634,
+    "lloc": 296,
+    "sloc": 553,
+    "comments": 3,
+    "multi": 0,
+    "blank": 64,
+    "single_comments": 17
+  },
+  "test/services/test_task_manager.py": {
+    "loc": 649,
+    "lloc": 363,
+    "sloc": 468,
+    "comments": 1,
+    "multi": 58,
+    "blank": 102,
+    "single_comments": 21
+  },
+  "test/services/test_queue_signature.py": {
+    "loc": 52,
+    "lloc": 43,
+    "sloc": 42,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/services/test_blank_material_terms.py": {
+    "loc": 25,
+    "lloc": 21,
+    "sloc": 23,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_material_cache_replacement.py": {
+    "loc": 97,
+    "lloc": 72,
+    "sloc": 75,
+    "comments": 1,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 1
+  },
+  "test/services/test_upload_post_timeout_id.py": {
+    "loc": 62,
+    "lloc": 53,
+    "sloc": 56,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_webui_ofox.py": {
+    "loc": 60,
+    "lloc": 29,
+    "sloc": 48,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_media_srt_publication.py": {
+    "loc": 138,
+    "lloc": 105,
+    "sloc": 101,
+    "comments": 0,
+    "multi": 6,
+    "blank": 31,
+    "single_comments": 0
+  },
+  "test/services/test_webui_startup.py": {
+    "loc": 72,
+    "lloc": 25,
+    "sloc": 60,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_voice.py": {
+    "loc": 2507,
+    "lloc": 1328,
+    "sloc": 1971,
+    "comments": 59,
+    "multi": 100,
+    "blank": 338,
+    "single_comments": 98
+  },
+  "test/services/test_mpt_agent_skill.py": {
+    "loc": 881,
+    "lloc": 402,
+    "sloc": 755,
+    "comments": 6,
+    "multi": 7,
+    "blank": 107,
+    "single_comments": 12
+  },
+  "test/services/test_llm.py": {
+    "loc": 2599,
+    "lloc": 1250,
+    "sloc": 2058,
+    "comments": 8,
+    "multi": 138,
+    "blank": 344,
+    "single_comments": 59
+  },
+  "test/services/test_cache_manager.py": {
+    "loc": 155,
+    "lloc": 112,
+    "sloc": 123,
+    "comments": 1,
+    "multi": 3,
+    "blank": 25,
+    "single_comments": 4
+  },
+  "test/services/test_voxcpm.py": {
+    "loc": 386,
+    "lloc": 210,
+    "sloc": 313,
+    "comments": 0,
+    "multi": 0,
+    "blank": 71,
+    "single_comments": 2
+  },
+  "test/services/test_webui_generation_defaults.py": {
+    "loc": 497,
+    "lloc": 176,
+    "sloc": 446,
+    "comments": 8,
+    "multi": 0,
+    "blank": 39,
+    "single_comments": 12
+  },
+  "test/services/test_state_input_snapshot.py": {
+    "loc": 20,
+    "lloc": 20,
+    "sloc": 18,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "test/services/test_webui_loomloom_regressions.py": {
+    "loc": 378,
+    "lloc": 224,
+    "sloc": 337,
+    "comments": 4,
+    "multi": 0,
+    "blank": 33,
+    "single_comments": 8
+  },
+  "test/services/test_api_validation_json.py": {
+    "loc": 66,
+    "lloc": 50,
+    "sloc": 54,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "test/services/test_task.py": {
+    "loc": 2606,
+    "lloc": 990,
+    "sloc": 2234,
+    "comments": 38,
+    "multi": 63,
+    "blank": 233,
+    "single_comments": 76
+  },
+  "test/services/test_retry_diagnostics.py": {
+    "loc": 61,
+    "lloc": 29,
+    "sloc": 55,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_sonilo_event_bound.py": {
+    "loc": 45,
+    "lloc": 33,
+    "sloc": 35,
+    "comments": 1,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 1
+  },
+  "test/services/test_loom_download_staging_native.py": {
+    "loc": 86,
+    "lloc": 67,
+    "sloc": 76,
+    "comments": 2,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "test/services/test_webui_task.py": {
+    "loc": 773,
+    "lloc": 344,
+    "sloc": 614,
+    "comments": 0,
+    "multi": 39,
+    "blank": 105,
+    "single_comments": 15
+  },
+  "test/services/test_material.py": {
+    "loc": 2681,
+    "lloc": 950,
+    "sloc": 2179,
+    "comments": 30,
+    "multi": 168,
+    "blank": 283,
+    "single_comments": 51
+  },
+  "test/services/test_webui_upload_post_settings.py": {
+    "loc": 126,
+    "lloc": 70,
+    "sloc": 93,
+    "comments": 12,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 14
+  },
+  "test/services/test_redis_patch_ownership.py": {
+    "loc": 46,
+    "lloc": 40,
+    "sloc": 39,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/services/test_subtitle_stage_result.py": {
+    "loc": 56,
+    "lloc": 38,
+    "sloc": 48,
+    "comments": 2,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 1
+  },
+  "test/services/test_asgi_static_files.py": {
+    "loc": 114,
+    "lloc": 67,
+    "sloc": 85,
+    "comments": 1,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 4
+  },
+  "test/services/test_render_parameter_validation.py": {
+    "loc": 54,
+    "lloc": 19,
+    "sloc": 48,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/services/test_controller_llm.py": {
+    "loc": 115,
+    "lloc": 41,
+    "sloc": 96,
+    "comments": 0,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 4
+  },
+  "test/services/test_bgm_list_race.py": {
+    "loc": 13,
+    "lloc": 12,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "test/services/test_webui_custom_audio_upload.py": {
+    "loc": 149,
+    "lloc": 87,
+    "sloc": 123,
+    "comments": 0,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 1
+  },
+  "test/services/test_artifact_download_mime.py": {
+    "loc": 35,
+    "lloc": 21,
+    "sloc": 31,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "test/services/test_upload_post.py": {
+    "loc": 465,
+    "lloc": 303,
+    "sloc": 382,
+    "comments": 0,
+    "multi": 0,
+    "blank": 74,
+    "single_comments": 9
+  },
+  "test/services/test_finite_audio_parameters.py": {
+    "loc": 36,
+    "lloc": 27,
+    "sloc": 31,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/services/test_music_provider_redirects.py": {
+    "loc": 111,
+    "lloc": 79,
+    "sloc": 92,
+    "comments": 0,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 1
+  },
+  "test/services/test_standalone_upload_containers.py": {
+    "loc": 45,
+    "lloc": 33,
+    "sloc": 36,
+    "comments": 2,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 2
+  }
+}
